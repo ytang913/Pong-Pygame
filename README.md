@@ -14,4 +14,8 @@ Everytime the player or cpu wins a game their score increases
 # Documentation
 This project was built using Python classes, if statements, while loops, for loops, functions, and Pygame
 
+# Result when the user opens the game initially
 
+# Result when the user wins the game
+
+# Result when the user loses the game 
