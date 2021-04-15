@@ -17,7 +17,8 @@ As the game progresses the ball speed increases by 1
 This project was built using Python classes, if statements, while loops, for loops, functions, and Pygame
 
 # Result when the user opens the game initially
-
+![](images/pongPygameInitial.jpg)
 # Result when the user wins the game
-
+![](images/pongPygameWin.jpg)
 # Result when the user loses the game 
+![](images/pongPygameLose.jpg)
