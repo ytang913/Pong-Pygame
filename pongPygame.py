@@ -111,7 +111,8 @@ class ball():
 		self.rect = Rect(x, y, self.ball_rad * 2, self.ball_rad * 2)
 		self.speed_x = -4
 		self.speed_y = 4
-		self.winner = 0# 1 is the player and -1 is the CPU
+		self.winner = 0
+		# 1 is the player and -1 is the CPU
 
 
 #create paddles

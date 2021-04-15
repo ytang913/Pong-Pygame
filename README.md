@@ -11,6 +11,8 @@ The player will have an opportunity to restart the game after they win or lose.
 
 Everytime the player or cpu wins a game their score increases
 
+As the game progresses the ball speed increases by 1
+
 # Documentation
 This project was built using Python classes, if statements, while loops, for loops, functions, and Pygame
 
