@@ -14,7 +14,12 @@ Everytime the player or cpu wins a game their score increases
 As the game progresses the ball speed increases by 1
 
 # Documentation
-This project was built using Python classes, if statements, while loops, for loops, functions, and Pygame
+
+Pygame is used to create the screen, starting up the game, ending the game, and displaying the title of the game
+
+ The functionality of the ball and paddles are all done with classes and within the classes are functions and if/else statements
+
+The movement of the paddles, the ball's speed increasing as the game progresses, and the restarting of the game when the player or CPU scores are all done with a while loop and within it are if/else statements and for loops
 
 # Result when the user opens the game initially
 ![](images/pongPygameInitial.jpg)
